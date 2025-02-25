@@ -14,7 +14,7 @@ Finally, the MnistClassifier class was implemented to allow the user to select t
 ## Installation  
 
 ### CPU-only
-After creating and running virtual environment(recommended) go the terminal and execute a command **`pip install requirementsCPU.txt`**. This will install all necessary packages to run the project.
+After creating and running virtual environment(recommended) go the terminal and execute a command **`pip install -r requirementsCPU.txt`**. This will install all necessary packages to run the project.
 
 ### GPU support
-After creating and running virtual environment(recommended) go the terminal and execute a command **`pip install requirementsGPU.txt`**. This will install all necessary packages to run the project.
+After creating and running virtual environment(recommended) go the terminal and execute a command **`pip install -r requirementsGPU.txt`**. This will install all necessary packages to run the project.

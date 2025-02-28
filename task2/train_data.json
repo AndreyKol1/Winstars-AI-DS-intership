@@ -1,0 +1,6002 @@
+[
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a chicken climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a sheep running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a spider in the park.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a squirrel climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a spider running around.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a cat climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a chicken in the background.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a chicken running around.",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a dog running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a sheep climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a horse in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a squirrel in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a elephant in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a dog running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a dog in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cow in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A spider is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          8,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a elephant running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a sheep climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a cat climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a chicken running around.",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a sheep running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a spider climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a cat climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a cat climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a elephant running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a squirrel running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a dog running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a spider running around.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a sheep is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cow in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a chicken in the background.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a spider climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a dog is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a elephant climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cat in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cat is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a spider in the park.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a horse is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a chicken climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a spider is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a elephant in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a squirrel climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a spider in the park.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a dog is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a elephant climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cow running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a elephant running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a elephant is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cow running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a horse climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A spider was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          8,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a dog in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cat is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a horse running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a horse climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a squirrel in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a butterfly is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a spider climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a elephant climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a horse is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a elephant running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cow is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a spider running around.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a spider in the park.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a sheep running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a chicken running around.",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a sheep climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a horse climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a chicken climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a squirrel is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cow is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cow in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cow in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a elephant climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a elephant in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cow is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a spider running around.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a butterfly is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a sheep in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a spider climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a spider is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a horse in the park.",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a chicken running around.",
+    {
+      "entities": [
+        [
+          24,
+          31,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a squirrel in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a butterfly climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a chicken climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a elephant running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a squirrel running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a squirrel in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The dog in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a horse is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a dog in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a horse running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a spider in the park.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a chicken in the background.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a dog running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a elephant running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a sheep in the park.",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a squirrel running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a horse climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a squirrel climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a sheep running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a chicken in the background.",
+    {
+      "entities": [
+        [
+          11,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a sheep in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cat in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a butterfly climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a elephant is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a sheep in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a horse in the park.",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a dog in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a cat climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a squirrel running around.",
+    {
+      "entities": [
+        [
+          24,
+          32,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The elephant in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cow running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a elephant climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a dog running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a dog in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a horse running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a horse in the park.",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a dog is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a sheep is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a cat climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a squirrel in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The squirrel in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          12,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a squirrel climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a spider climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a sheep is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a spider is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a spider running around.",
+    {
+      "entities": [
+        [
+          24,
+          30,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a horse in the park.",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a dog climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a sheep running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a sheep is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cat is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a elephant in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a squirrel is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A elephant is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cow is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cow in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a horse in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The spider in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a horse in the park.",
+    {
+      "entities": [
+        [
+          8,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a chicken in the park.",
+    {
+      "entities": [
+        [
+          8,
+          15,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a dog running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a horse is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a squirrel is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a squirrel in the background.",
+    {
+      "entities": [
+        [
+          11,
+          19,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a horse is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          23,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a elephant is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A spider was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          8,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a spider in the background.",
+    {
+      "entities": [
+        [
+          11,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a horse climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cow running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cat is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a dog in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A butterfly is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A chicken is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a sheep running around.",
+    {
+      "entities": [
+        [
+          24,
+          29,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a elephant is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cat in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a spider is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          24,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The chicken in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a elephant in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A spider was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          8,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A dog was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a horse in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cow is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a butterfly running around.",
+    {
+      "entities": [
+        [
+          24,
+          33,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a horse in the background.",
+    {
+      "entities": [
+        [
+          11,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A squirrel was spotted near the river.",
+    {
+      "entities": [
+        [
+          2,
+          10,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a elephant in the park.",
+    {
+      "entities": [
+        [
+          8,
+          16,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This picture features a cat running around.",
+    {
+      "entities": [
+        [
+          24,
+          27,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a elephant is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          26,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A spider is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          8,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a butterfly in the park.",
+    {
+      "entities": [
+        [
+          8,
+          17,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a spider in the park.",
+    {
+      "entities": [
+        [
+          8,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A spider is resting under the tree.",
+    {
+      "entities": [
+        [
+          2,
+          8,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I saw a cat in the park.",
+    {
+      "entities": [
+        [
+          8,
+          11,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A cow is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          5,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The sheep in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The butterfly in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          13,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "I noticed a spider climbing up a tree.",
+    {
+      "entities": [
+        [
+          12,
+          18,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The cow in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a butterfly in the background.",
+    {
+      "entities": [
+        [
+          11,
+          20,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A sheep is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "There is a cow in the background.",
+    {
+      "entities": [
+        [
+          11,
+          14,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "In the picture, a cow is standing still.",
+    {
+      "entities": [
+        [
+          18,
+          21,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in this image looks happy.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "A horse is lying on the ground.",
+    {
+      "entities": [
+        [
+          2,
+          7,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The horse in the photo is quite large.",
+    {
+      "entities": [
+        [
+          4,
+          9,
+          "ANIMAL"
+        ]
+      ]
+    }
+  ]
+]

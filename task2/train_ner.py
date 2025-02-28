@@ -55,7 +55,7 @@ def train(training_data, output_dir, epochs=5):
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe not in ['ner', 'transformer']] # getting other pipes if exists
     with nlp.disable_pipes(*other_pipes): # disabling all pipelines except transformer and ner
         optimizer = nlp.resume_training() # initialize optimizer
-        optimizer.learn_rate = 5e-6
+        optimizer.learn_rate = 1e-6
         
         # training loop
         for epoch in range(epochs):
@@ -73,6 +73,7 @@ def train(training_data, output_dir, epochs=5):
 def main():
     args = argument_parser()
     train_data = dataloader(args.train_data)
+    spacy.require_gpu()
     train(train_data, args.output_dir, args.epochs)
     
 

@@ -12,7 +12,8 @@ def argument_parser():
     parser.add_argument("--train_data", type=str, required=True, help="Provide a path to a json file with training data")
     parser.add_argument("--output_dir", type=str, required=True, help="Provide a path, where you will store a model")
     
-    parser.add_argument("--epochs", type=int, default=5, help='Provide number of epochs') # optional parameters, but set by default to 5 due to high performance with this number
+    parser.add_argument("--epochs", type=int, default=20, help='Provide number of epochs') # optional parameters, but set by default to 5 due to high performance with this number
+    parser.add_argument("--learning_rate", type=int, default=1e-5, help='Provide a learning rate')
     
     
     return parser.parse_args()
@@ -34,7 +35,7 @@ def preprocessData(data, nlp):
     return training_examples
 
 # A function for training a model
-def train(training_data, output_dir, epochs=5):
+def train(training_data, output_dir, epochs=20, lr=1e-5):
     nlp = spacy.load("en_core_web_trf") # loading a transformer
 
     if "transformer" not in nlp.pipe_names: 
@@ -55,7 +56,7 @@ def train(training_data, output_dir, epochs=5):
     other_pipes = [pipe for pipe in nlp.pipe_names if pipe not in ['ner', 'transformer']] # getting other pipes if exists
     with nlp.disable_pipes(*other_pipes): # disabling all pipelines except transformer and ner
         optimizer = nlp.resume_training() # initialize optimizer
-        optimizer.learn_rate = 1e-6
+        optimizer.learn_rate = lr
         
         # training loop
         for epoch in range(epochs):
@@ -82,4 +83,4 @@ if __name__ == "__main__":
         
 
 
-# python train_ner.py --train_data train_data.json --output_dir out
+# python train_ner.py --train_data ner_dataset.json --output_dir ner_model

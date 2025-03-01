@@ -12,8 +12,8 @@ def argument_parser():
     parser.add_argument("--train_data", type=str, required=True, help="Provide a path to a json file with training data")
     parser.add_argument("--output_dir", type=str, required=True, help="Provide a path, where you will store a model")
     
-    parser.add_argument("--epochs", type=int, default=20, help='Provide number of epochs') # optional parameters, but set by default to 5 due to high performance with this number
-    parser.add_argument("--learning_rate", type=int, default=1e-5, help='Provide a learning rate')
+    parser.add_argument("--epochs", type=int, default=20, help='Provide number of epochs') # optional parameters for epochs
+    parser.add_argument("--learning_rate", type=int, default=1e-5, help='Provide a learning rate') # optional parameter for learning rate
     
     
     return parser.parse_args()
@@ -83,4 +83,3 @@ if __name__ == "__main__":
         
 
 
-# python train_ner.py --train_data ner_dataset.json --output_dir ner_model

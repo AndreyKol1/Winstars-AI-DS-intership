@@ -17,6 +17,7 @@ def argument_parser():
     parser.add_argument("--output_dir", type=str, required=True, help="Provide a path, where you will store a model") # path for saving a model
     
     parser.add_argument("--epochs", type=int, default=3, help='Provide number of epochs') # optional parameters for epochs
+    parser.add_argument("--lr", type=int, default=1e-4, help='Provide a learning rate') # optional parameters for learning rate
     
     
     return parser.parse_args()
@@ -144,7 +145,7 @@ def main():
     dataset = AnimalDataset(args.train_data, transform)
     train_dl, valid_dl = dataset.get_dataloaders()
     model = AnimalClassifier(num_classes=10)
-    train(model, train_dl, valid_dl, args.output_dir)
+    train(model, train_dl, valid_dl, args.output_dir, args.lr)
     
 if __name__ == "__main__":
     main()

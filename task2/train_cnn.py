@@ -145,7 +145,7 @@ def main():
     dataset = AnimalDataset(args.train_data, transform)
     train_dl, valid_dl = dataset.get_dataloaders()
     model = AnimalClassifier(num_classes=10)
-    train(model, train_dl, valid_dl, args.output_dir, args.lr)
+    train(model, train_dl, valid_dl, args.output_dir, epochs=args.epochs, lr=args.lr)
     
 if __name__ == "__main__":
     main()

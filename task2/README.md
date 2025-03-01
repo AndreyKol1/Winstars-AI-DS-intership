@@ -16,7 +16,7 @@ For the CV part, I used transfer-learning technique in combination with data-aug
 
 ### CNN model training
 
-**`python train_cnn.py --train_data raw-image --output_dir cnn_model`** a command for training CNN model. The model will be saved to cnn_model folder. If you made some name changes in files or folders, don't forget to adjust the command.
+**`python train_cnn.py --train_data raw-img --output_dir cnn_model`** a command for training CNN model. The model will be saved to cnn_model folder. If you made some name changes in files or folders, don't forget to adjust the command.
 
 ### Get prediction
 
@@ -25,5 +25,18 @@ For the CV part, I used transfer-learning technique in combination with data-aug
 
 ## Installation
 
-This project is supported only with GPU graphic card. To set up a this project you need to create virtual environment with python version of 3.11. if you are using conda: **`conda create -n envname python=3.11`**. If using virtual environment: **`python3.11 -m envname .env`**
-After activation of virtual environment execute a command **`pip install -r requirements.txt`**. This will install all necessary packages to your environment. Them you can use commands written above to train and test the models.  
+This project is supported only with GPU graphic card and CUDA 12x. 
+1. To set up a this project you need to create virtual environment with python version of 3.11. if you are using conda: **`conda create -n envname python=3.11`**. If using virtual environment: **`python3.11 -m envname .env`**
+2. Install pytorch with cuda to your environment. You can download it here: https://pytorch.org/get-started 
+3. Install all other necessary credentials by executing a command **`pip install -r requirements.txt`**. This will install all necessary packages to your environment. Then you can use commands written above to train and test the models.  
+
+# Links to datasets 
+
+Kaggle datasets initially contains italian names of the folders. For the convenience and in case of any corruption with rar file I uploaded it to disk.
+
+Kaggle: https://www.kaggle.com/datasets/alessiocorrado99/animals10
+
+
+Since, I have had some problems with git lfs I will leave a link for the dataset below:
+
+My dataset: https://drive.google.com/file/d/1ZXoYN2aUAoy3ppFiRSRnOskxW2h2QsRZ/view?usp=sharing

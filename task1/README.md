@@ -17,4 +17,6 @@ Finally, the MnistClassifier class was implemented to allow the user to select t
 After creating and running virtual environment(recommended) go the terminal and execute a command **`pip install -r requirementsCPU.txt`**. This will install all necessary packages to run the project.
 
 ### GPU
-After creating and running virtual environment(recommended) visit the pytorch web-site: https://pytorch.org/get-started/locally/ and pick cuda version compatible with your GPU. Execute a given command, this will download all necessary pytorch modules. After that, execute a command **`pip install -r requirementsGPU.txt`**. This will install all other necessary packages to run the project.
+1. After creating and running virtual environment(recommended) visit the pytorch web-site: https://pytorch.org/get-started/locally/ and pick cuda version compatible with your GPU.
+2. Execute a given command, this will download all necessary pytorch modules.
+3. Execute a command **`pip install -r requirementsGPU.txt`**. This will install all other necessary packages to run the project.

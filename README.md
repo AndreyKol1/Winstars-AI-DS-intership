@@ -1,1 +1,1 @@
-# Winstars-AI-DS-intership
+# Machine Learning projects
